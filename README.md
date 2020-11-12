@@ -12,4 +12,4 @@ A prompt is displayed to begin exploring artists, afterwards:
 - `exit`: close `gomusic`
 
 ## About
-A fun web-scraping project to explore
+A fun web-scraping project to explore browse music artists and find new sounds. A side-project born from a love of web-scraping and an infatuation with Go.
